@@ -36,11 +36,19 @@ Follow these steps to set up and run the project locally.
    ```
 
 2. **Install Dependencies**
+
+   ```bash
    npm install
-
    # or
-
    yarn install
 
+   ```
+
 3. **Start the Application**
+   ```bash
    npm run dev
+   ```
+
+```
+
+```
