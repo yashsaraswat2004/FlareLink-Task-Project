@@ -57,5 +57,5 @@ Follow these steps to set up and run the project locally.
 
 ### Screenshots
 
-![HomePage](public/Home.png.png)
-![AllTask](public/All%20Task.png.png)
+![HomePage](public\Home.png)
+![AllTask](public/AllTask.png)
