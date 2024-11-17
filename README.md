@@ -49,6 +49,13 @@ Follow these steps to set up and run the project locally.
    npm run dev
    ```
 
-```
+### Tech Stack
 
-```
+- React: For building the user interface
+- Vite: As the build tool for a fast and optimized development environment
+- JavaScript (ES6+): Programming language for app logic
+
+### Screenshots
+
+![HomePage](/public/Home.png.png)
+![AllTask](/public/All%20Task.png.png)
